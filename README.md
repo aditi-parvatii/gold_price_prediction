@@ -16,3 +16,4 @@ Evaluating the model's accuracy and performance.
 The results of this project provide valuable insights into gold price trends and offer a functional model for predicting future gold prices based on historical data.
 
 Note: For more detailed information and code implementation, please refer to the Jupyter Notebook provided in this repository.
+The excel file has also been attached.
